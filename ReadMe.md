@@ -1,5 +1,7 @@
 # 💫 About Me:
-Data Science Enthusiast <br>NLP lover <br>Currently working on misinformation detection in E-commerce platforms<br> 
+* Data Science Enthusiast <br>
+* NLP lover <br>
+* Currently working on misinformation detection in E-commerce platforms<br> 
 
 
 ## 🌐 Socials:
