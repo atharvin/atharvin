@@ -1,8 +1,8 @@
 # 💫 About Me:
-* Data Science Enthusiast <br>
-* NLP lover <br>
-* Currently working on misinformation detection in E-commerce platforms<br> 
-
+* DataScientist at DataEaze Systems Pvt. Ltd. <br>
+* Masters in DataScience and AI at IIT Bhilai <br>
+* Kaggle Expert <br>
+* Currently working on fine-tuning Large Language Models to achieve alignment on different domains <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-inamdar) 
